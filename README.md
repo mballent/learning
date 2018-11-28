@@ -4,5 +4,5 @@
 
 ### mattballentine
 
-![compass.jpg]()
-![walkman.jpg]()
+![](compass.jpg)
+![](walkman.jpg)
