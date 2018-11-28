@@ -4,6 +4,4 @@
 
 ### mattballentine
 
-![](walkman.jpg)
 
-![](compass.jpg)
